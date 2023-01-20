@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IdentifyImage</string>
+    <string name="image_count">%d of 10 images</string>
+    <string name="score">Score %d</string>
+    <string name="identify_image">Identify The above given image</string>
+    <string name="sun">Sun</string>
+    <string name="moon">Moon</string>
+    <string name="star">Star</string>
+    <string name="car">Car</string>
+    <string name="bike">Bike</string>
+    <string name="cycle">Cycle</string>
+    <string name="rocket">Rocket</string>
+    <string name="plane">Plane</string>
+    <string name="cap">Cap</string>
+    <string name="calculator">Calculator</string>
+</resources>
